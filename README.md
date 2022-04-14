@@ -24,11 +24,3 @@ yarn test:unit
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-
-更多资源加微信：itit11223344
-
